@@ -3,7 +3,7 @@
 	(generator "eeschema")
 	(generator_version "9.0")
 	(uuid "3e3c7a2a-4222-43c2-9aad-eff9a5e60c62")
-	(paper "A4")
+	(paper "A3")
 	(title_block
 		(title "Плата предзаряда резисторов")
 		(company "ООО \"Электротранспортные технологии\"")
@@ -390,7 +390,7 @@
 	)
 	(text "Схема электрическая принципиальная"
 		(exclude_from_sim no)
-		(at 206.248 184.658 0)
+		(at 329.946 271.78 0)
 		(effects
 			(font
 				(size 2.5 2.5)
@@ -399,192 +399,192 @@
 		(uuid "ba94b2bd-9c9b-4e6f-a63a-e0a84bb1d10a")
 	)
 	(junction
-		(at 133.35 67.31)
+		(at 191.77 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "02cbeea8-631b-4ade-a2dd-9e57364e989f")
 	)
 	(junction
-		(at 88.9 67.31)
+		(at 147.32 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0a1e8eb1-3538-4f68-bde4-1fd994f4d0c7")
 	)
 	(junction
-		(at 97.79 67.31)
+		(at 156.21 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "105a7eec-731f-4414-9123-0881e5216dd1")
 	)
 	(junction
-		(at 142.24 91.44)
+		(at 200.66 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "12d483d0-e740-4f3e-a5fc-d44359ad2790")
 	)
 	(junction
-		(at 142.24 74.93)
+		(at 200.66 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "20393213-79d7-48f6-8de0-aa547c88e87b")
 	)
 	(junction
-		(at 97.79 91.44)
+		(at 156.21 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2c495959-343e-448a-8e2c-94a08d19d395")
 	)
 	(junction
-		(at 106.68 83.82)
+		(at 165.1 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "49458762-4f6e-4c37-8d4c-0f85df063755")
 	)
 	(junction
-		(at 115.57 91.44)
+		(at 173.99 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5b3942c2-1f4d-4835-8103-f47a584ff105")
 	)
 	(junction
-		(at 88.9 74.93)
+		(at 147.32 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6a748a84-ebb3-490e-9037-33582ab14e5a")
 	)
 	(junction
-		(at 124.46 83.82)
+		(at 182.88 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6e981624-4d9d-483d-a260-fcc86fe46b3b")
 	)
 	(junction
-		(at 142.24 67.31)
+		(at 200.66 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "724e355f-32cf-4722-82b9-47648798111d")
 	)
 	(junction
-		(at 124.46 91.44)
+		(at 182.88 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "738f26a8-4edf-4ae6-8cb2-8446acf884c4")
 	)
 	(junction
-		(at 133.35 91.44)
+		(at 191.77 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "81fc120d-4c51-4d17-bff5-5e3c97eb3dfb")
 	)
 	(junction
-		(at 115.57 67.31)
+		(at 173.99 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "85e00e89-f218-4258-91f6-3373f7001c96")
 	)
 	(junction
-		(at 124.46 67.31)
+		(at 182.88 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9d33ba0c-bb60-47df-85c8-ce0621191e7f")
 	)
 	(junction
-		(at 115.57 83.82)
+		(at 173.99 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9fdca4dc-fdd6-4fff-a9c6-c9f900ea10dd")
 	)
 	(junction
-		(at 106.68 91.44)
+		(at 165.1 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a2c0856e-8f6f-45e0-bc15-b5619e6e7f17")
 	)
 	(junction
-		(at 97.79 83.82)
+		(at 156.21 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a38aee3e-00e0-47a7-bcfa-6c46de278191")
 	)
 	(junction
-		(at 133.35 83.82)
+		(at 191.77 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a750cc39-08d2-4005-988c-4c3636f76f94")
 	)
 	(junction
-		(at 115.57 74.93)
+		(at 173.99 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a911eece-1ba0-4425-9df9-eac8f37451c6")
 	)
 	(junction
-		(at 106.68 74.93)
+		(at 165.1 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c05c1887-f381-4283-9ae3-28a4d9b0276b")
 	)
 	(junction
-		(at 88.9 91.44)
+		(at 147.32 146.05)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c17b22ce-b314-4bcf-a1fa-412a78a10614")
 	)
 	(junction
-		(at 106.68 67.31)
+		(at 165.1 121.92)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c89a22dc-af0f-44f4-ba08-1ae4f3368f49")
 	)
 	(junction
-		(at 124.46 74.93)
+		(at 182.88 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "df462625-3bac-4bd0-b0f7-f511125f89b7")
 	)
 	(junction
-		(at 97.79 74.93)
+		(at 156.21 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e03f76ea-61a9-4157-8368-72a65d24d84e")
 	)
 	(junction
-		(at 142.24 83.82)
+		(at 200.66 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e94b55a2-9d3b-49d6-a3da-0fca33176994")
 	)
 	(junction
-		(at 88.9 83.82)
+		(at 147.32 138.43)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eb9c2673-7bbb-4f85-b6c5-5527fdf4ab75")
 	)
 	(junction
-		(at 133.35 74.93)
+		(at 191.77 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f1240b46-3645-4ea9-b0df-5d5a6f7888f2")
 	)
 	(no_connect
-		(at 215.9 78.74)
+		(at 274.32 133.35)
 		(uuid "3cb79a39-35fd-4a61-a472-e1b155a4c87a")
 	)
 	(no_connect
-		(at 215.9 95.25)
+		(at 274.32 149.86)
 		(uuid "76862036-8054-41ba-843d-bc2db1f99a3c")
 	)
 	(no_connect
-		(at 215.9 87.63)
+		(at 274.32 142.24)
 		(uuid "80341b76-28f8-4600-a088-0a902bdf1ecf")
 	)
 	(no_connect
-		(at 215.9 71.12)
+		(at 274.32 125.73)
 		(uuid "acfb4293-d658-4b7a-9991-4c6b01d01640")
 	)
 	(wire
 		(pts
-			(xy 85.09 91.44) (xy 88.9 91.44)
+			(xy 143.51 146.05) (xy 147.32 146.05)
 		)
 		(stroke
 			(width 0)
@@ -594,7 +594,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 91.44) (xy 133.35 91.44)
+			(xy 182.88 146.05) (xy 191.77 146.05)
 		)
 		(stroke
 			(width 0)
@@ -604,7 +604,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 74.93) (xy 97.79 74.93)
+			(xy 147.32 129.54) (xy 156.21 129.54)
 		)
 		(stroke
 			(width 0)
@@ -614,7 +614,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 67.31) (xy 88.9 67.31)
+			(xy 143.51 121.92) (xy 147.32 121.92)
 		)
 		(stroke
 			(width 0)
@@ -624,7 +624,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 74.93) (xy 151.13 74.93)
+			(xy 200.66 129.54) (xy 209.55 129.54)
 		)
 		(stroke
 			(width 0)
@@ -634,7 +634,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 83.82) (xy 133.35 83.82)
+			(xy 182.88 138.43) (xy 191.77 138.43)
 		)
 		(stroke
 			(width 0)
@@ -644,7 +644,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 67.31) (xy 115.57 67.31)
+			(xy 165.1 121.92) (xy 173.99 121.92)
 		)
 		(stroke
 			(width 0)
@@ -654,7 +654,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 91.44) (xy 97.79 91.44)
+			(xy 147.32 146.05) (xy 156.21 146.05)
 		)
 		(stroke
 			(width 0)
@@ -664,7 +664,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 67.31) (xy 133.35 67.31)
+			(xy 182.88 121.92) (xy 191.77 121.92)
 		)
 		(stroke
 			(width 0)
@@ -674,7 +674,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 67.31) (xy 151.13 67.31)
+			(xy 200.66 121.92) (xy 209.55 121.92)
 		)
 		(stroke
 			(width 0)
@@ -684,7 +684,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 67.31) (xy 124.46 67.31)
+			(xy 173.99 121.92) (xy 182.88 121.92)
 		)
 		(stroke
 			(width 0)
@@ -694,7 +694,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 83.82) (xy 115.57 83.82)
+			(xy 165.1 138.43) (xy 173.99 138.43)
 		)
 		(stroke
 			(width 0)
@@ -704,7 +704,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 67.31) (xy 97.79 67.31)
+			(xy 147.32 121.92) (xy 156.21 121.92)
 		)
 		(stroke
 			(width 0)
@@ -714,7 +714,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 83.82) (xy 106.68 83.82)
+			(xy 156.21 138.43) (xy 165.1 138.43)
 		)
 		(stroke
 			(width 0)
@@ -724,7 +724,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 91.44) (xy 142.24 91.44)
+			(xy 191.77 146.05) (xy 200.66 146.05)
 		)
 		(stroke
 			(width 0)
@@ -734,7 +734,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 91.44) (xy 115.57 91.44)
+			(xy 165.1 146.05) (xy 173.99 146.05)
 		)
 		(stroke
 			(width 0)
@@ -744,7 +744,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 91.44) (xy 151.13 91.44)
+			(xy 200.66 146.05) (xy 209.55 146.05)
 		)
 		(stroke
 			(width 0)
@@ -754,7 +754,7 @@
 	)
 	(wire
 		(pts
-			(xy 142.24 83.82) (xy 151.13 83.82)
+			(xy 200.66 138.43) (xy 209.55 138.43)
 		)
 		(stroke
 			(width 0)
@@ -764,7 +764,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 74.93) (xy 142.24 74.93)
+			(xy 191.77 129.54) (xy 200.66 129.54)
 		)
 		(stroke
 			(width 0)
@@ -774,7 +774,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 83.82) (xy 88.9 83.82)
+			(xy 143.51 138.43) (xy 147.32 138.43)
 		)
 		(stroke
 			(width 0)
@@ -784,7 +784,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 83.82) (xy 97.79 83.82)
+			(xy 147.32 138.43) (xy 156.21 138.43)
 		)
 		(stroke
 			(width 0)
@@ -794,7 +794,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 74.93) (xy 106.68 74.93)
+			(xy 156.21 129.54) (xy 165.1 129.54)
 		)
 		(stroke
 			(width 0)
@@ -804,7 +804,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 91.44) (xy 124.46 91.44)
+			(xy 173.99 146.05) (xy 182.88 146.05)
 		)
 		(stroke
 			(width 0)
@@ -814,7 +814,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 67.31) (xy 106.68 67.31)
+			(xy 156.21 121.92) (xy 165.1 121.92)
 		)
 		(stroke
 			(width 0)
@@ -824,7 +824,7 @@
 	)
 	(wire
 		(pts
-			(xy 106.68 74.93) (xy 115.57 74.93)
+			(xy 165.1 129.54) (xy 173.99 129.54)
 		)
 		(stroke
 			(width 0)
@@ -834,7 +834,7 @@
 	)
 	(wire
 		(pts
-			(xy 124.46 74.93) (xy 133.35 74.93)
+			(xy 182.88 129.54) (xy 191.77 129.54)
 		)
 		(stroke
 			(width 0)
@@ -844,7 +844,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 74.93) (xy 124.46 74.93)
+			(xy 173.99 129.54) (xy 182.88 129.54)
 		)
 		(stroke
 			(width 0)
@@ -854,7 +854,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 83.82) (xy 142.24 83.82)
+			(xy 191.77 138.43) (xy 200.66 138.43)
 		)
 		(stroke
 			(width 0)
@@ -864,7 +864,7 @@
 	)
 	(wire
 		(pts
-			(xy 85.09 74.93) (xy 88.9 74.93)
+			(xy 143.51 129.54) (xy 147.32 129.54)
 		)
 		(stroke
 			(width 0)
@@ -874,7 +874,7 @@
 	)
 	(wire
 		(pts
-			(xy 133.35 67.31) (xy 142.24 67.31)
+			(xy 191.77 121.92) (xy 200.66 121.92)
 		)
 		(stroke
 			(width 0)
@@ -884,7 +884,7 @@
 	)
 	(wire
 		(pts
-			(xy 115.57 83.82) (xy 124.46 83.82)
+			(xy 173.99 138.43) (xy 182.88 138.43)
 		)
 		(stroke
 			(width 0)
@@ -894,7 +894,7 @@
 	)
 	(wire
 		(pts
-			(xy 97.79 91.44) (xy 106.68 91.44)
+			(xy 156.21 146.05) (xy 165.1 146.05)
 		)
 		(stroke
 			(width 0)
@@ -904,7 +904,7 @@
 	)
 	(global_label "VDC_OUT1_Relay"
 		(shape input)
-		(at 181.61 90.17 180)
+		(at 240.03 144.78 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -914,7 +914,7 @@
 		)
 		(uuid "538be083-d97e-455a-aade-148e56a29a96")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.0825 90.17 0)
+			(at 221.5025 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -926,7 +926,7 @@
 	)
 	(global_label "VDC_IN"
 		(shape input)
-		(at 85.09 67.31 180)
+		(at 143.51 121.92 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -936,7 +936,7 @@
 		)
 		(uuid "74fe7861-9102-433d-a7cc-6d50390f7a39")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 75.5733 67.31 0)
+			(at 133.9933 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -948,7 +948,7 @@
 	)
 	(global_label "VDC_IN"
 		(shape input)
-		(at 85.09 83.82 180)
+		(at 143.51 138.43 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -958,7 +958,7 @@
 		)
 		(uuid "91ea6b55-1d47-472b-a09d-59c9a970b167")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 75.5733 83.82 0)
+			(at 133.9933 138.43 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -970,7 +970,7 @@
 	)
 	(global_label "VDC_OUT1_Relay"
 		(shape input)
-		(at 181.61 87.63 180)
+		(at 240.03 142.24 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -980,7 +980,7 @@
 		)
 		(uuid "91f4b943-0e1b-4d15-a9ba-1092e3034a83")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.0825 87.63 0)
+			(at 221.5025 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -992,7 +992,7 @@
 	)
 	(global_label "VDC_OUT2_Relay"
 		(shape input)
-		(at 181.61 81.28 180)
+		(at 240.03 135.89 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1002,7 +1002,7 @@
 		)
 		(uuid "9b7bd2c3-3ff1-400a-b7e3-6eb92068e810")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.0825 81.28 0)
+			(at 221.5025 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1014,7 +1014,7 @@
 	)
 	(global_label "VDC_OUT2_Relay"
 		(shape output)
-		(at 85.09 91.44 180)
+		(at 143.51 146.05 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1024,7 +1024,7 @@
 		)
 		(uuid "c209f826-1388-4bdd-a491-d28457d1f6d9")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 66.5625 91.44 0)
+			(at 124.9825 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1036,7 +1036,7 @@
 	)
 	(global_label "VDC_IN"
 		(shape output)
-		(at 181.61 72.39 180)
+		(at 240.03 127 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1046,7 +1046,7 @@
 		)
 		(uuid "c3694c53-3044-4780-bef6-b706f85cca25")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 172.0933 72.39 0)
+			(at 230.5133 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1058,7 +1058,7 @@
 	)
 	(global_label "VDC_OUT1_Relay"
 		(shape output)
-		(at 85.09 74.93 180)
+		(at 143.51 129.54 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1068,7 +1068,7 @@
 		)
 		(uuid "ca08996a-0bed-4ed9-aa7c-bc7b30424444")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 66.5625 74.93 0)
+			(at 124.9825 129.54 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1080,7 +1080,7 @@
 	)
 	(global_label "VDC_IN"
 		(shape output)
-		(at 181.61 69.85 180)
+		(at 240.03 124.46 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1090,7 +1090,7 @@
 		)
 		(uuid "e6e51afb-84e2-446e-9bc9-34bb9ca6c45e")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 172.0933 69.85 0)
+			(at 230.5133 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1102,7 +1102,7 @@
 	)
 	(global_label "VDC_OUT2_Relay"
 		(shape input)
-		(at 181.61 78.74 180)
+		(at 240.03 133.35 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1112,7 +1112,7 @@
 		)
 		(uuid "fa444bf5-7839-4c42-9930-de2d234d2ed7")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 163.0825 78.74 0)
+			(at 221.5025 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1124,7 +1124,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 106.68 87.63 0)
+		(at 165.1 142.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1133,7 +1133,7 @@
 		(fields_autoplaced yes)
 		(uuid "06a33d92-cd63-42bd-9d19-649a986c9699")
 		(property "Reference" "R11"
-			(at 109.22 86.3599 0)
+			(at 167.64 140.9699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1142,7 +1142,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 109.22 88.8999 0)
+			(at 167.64 143.5099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1151,7 +1151,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_Power_L60.0mm_W14.0mm_P66.04mm"
-			(at 104.902 87.63 90)
+			(at 163.322 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1160,7 +1160,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 106.68 87.63 0)
+			(at 165.1 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1169,7 +1169,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 106.68 87.63 0)
+			(at 165.1 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1178,7 +1178,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 106.68 87.63 0)
+			(at 165.1 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1187,7 +1187,7 @@
 			)
 		)
 		(property "Product Name" "SQP 20 Вт"
-			(at 106.68 87.63 0)
+			(at 165.1 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1196,7 +1196,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 106.68 87.63 0)
+			(at 165.1 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1204,7 +1204,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 106.68 87.63 0)
+			(at 165.1 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1228,7 +1228,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 186.69 69.85 0)
+		(at 245.11 124.46 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1236,7 +1236,7 @@
 		(dnp no)
 		(uuid "1f23733b-8351-4581-ac60-a0de0c07e7e2")
 		(property "Reference" "J1"
-			(at 189.23 69.8499 0)
+			(at 247.65 124.4599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1245,7 +1245,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 189.23 72.3899 0)
+			(at 247.65 126.9999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1254,7 +1254,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Molex:Molex_Mini-Fit_Jr_5566-02A_2x01_P4.20mm_Vertical"
-			(at 186.69 69.85 0)
+			(at 245.11 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1263,7 +1263,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 186.69 69.85 0)
+			(at 245.11 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1272,7 +1272,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 186.69 69.85 0)
+			(at 245.11 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1281,7 +1281,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 186.69 69.85 0)
+			(at 245.11 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1290,7 +1290,7 @@
 			)
 		)
 		(property "Product Name" "DS1073-01-2x1-MVT6"
-			(at 186.69 69.85 0)
+			(at 245.11 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1299,7 +1299,7 @@
 			)
 		)
 		(property "Purpose" "VDC_IN"
-			(at 190.246 72.644 0)
+			(at 248.666 127.254 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1307,7 +1307,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 186.69 69.85 0)
+			(at 245.11 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1331,7 +1331,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 106.68 71.12 0)
+		(at 165.1 125.73 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1340,7 +1340,7 @@
 		(fields_autoplaced yes)
 		(uuid "2158cd9a-9850-45f5-8de4-0b6cbc591138")
 		(property "Reference" "R3"
-			(at 109.22 69.8499 0)
+			(at 167.64 124.4599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1349,7 +1349,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 109.22 72.3899 0)
+			(at 167.64 126.9999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1358,7 +1358,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_Power_L60.0mm_W14.0mm_P66.04mm"
-			(at 104.902 71.12 90)
+			(at 163.322 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1367,7 +1367,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 106.68 71.12 0)
+			(at 165.1 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1376,7 +1376,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 106.68 71.12 0)
+			(at 165.1 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1385,7 +1385,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 106.68 71.12 0)
+			(at 165.1 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1394,7 +1394,7 @@
 			)
 		)
 		(property "Product Name" "SQP 20 Вт"
-			(at 106.68 71.12 0)
+			(at 165.1 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1403,7 +1403,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 106.68 71.12 0)
+			(at 165.1 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1411,7 +1411,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 106.68 71.12 0)
+			(at 165.1 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1435,7 +1435,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 215.9 68.58 0)
+		(at 274.32 123.19 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -1444,7 +1444,7 @@
 		(fields_autoplaced yes)
 		(uuid "25c9bc61-388d-46c4-966d-65c811b52bbc")
 		(property "Reference" "H1"
-			(at 218.44 66.04 0)
+			(at 276.86 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1453,7 +1453,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 218.44 68.58 0)
+			(at 276.86 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1462,7 +1462,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4"
-			(at 215.9 68.58 0)
+			(at 274.32 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1471,7 +1471,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 215.9 68.58 0)
+			(at 274.32 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1480,7 +1480,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 215.9 68.58 0)
+			(at 274.32 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1489,7 +1489,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 215.9 68.58 0)
+			(at 274.32 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1497,7 +1497,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 215.9 68.58 0)
+			(at 274.32 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1505,7 +1505,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 215.9 68.58 0)
+			(at 274.32 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1513,7 +1513,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 215.9 68.58 0)
+			(at 274.32 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1534,7 +1534,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 124.46 87.63 0)
+		(at 182.88 142.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1543,7 +1543,7 @@
 		(fields_autoplaced yes)
 		(uuid "4e076909-3720-4130-a1be-2eedb24bd7aa")
 		(property "Reference" "R13"
-			(at 127 86.3599 0)
+			(at 185.42 140.9699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1552,7 +1552,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 127 88.8999 0)
+			(at 185.42 143.5099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1561,7 +1561,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_Power_L60.0mm_W14.0mm_P66.04mm"
-			(at 122.682 87.63 90)
+			(at 181.102 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1570,7 +1570,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 124.46 87.63 0)
+			(at 182.88 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1579,7 +1579,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 124.46 87.63 0)
+			(at 182.88 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1588,7 +1588,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 124.46 87.63 0)
+			(at 182.88 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1597,7 +1597,7 @@
 			)
 		)
 		(property "Product Name" "SQP 20 Вт"
-			(at 124.46 87.63 0)
+			(at 182.88 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1606,7 +1606,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 124.46 87.63 0)
+			(at 182.88 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1614,7 +1614,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 124.46 87.63 0)
+			(at 182.88 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1638,7 +1638,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 142.24 71.12 0)
+		(at 200.66 125.73 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1647,7 +1647,7 @@
 		(fields_autoplaced yes)
 		(uuid "621b93df-8a96-4b3e-80fb-a204e5b70d20")
 		(property "Reference" "R7"
-			(at 144.78 69.8499 0)
+			(at 203.2 124.4599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1656,7 +1656,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 144.78 72.3899 0)
+			(at 203.2 126.9999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1665,7 +1665,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_Power_L60.0mm_W14.0mm_P66.04mm"
-			(at 140.462 71.12 90)
+			(at 198.882 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1674,7 +1674,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 142.24 71.12 0)
+			(at 200.66 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1683,7 +1683,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 142.24 71.12 0)
+			(at 200.66 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1692,7 +1692,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 142.24 71.12 0)
+			(at 200.66 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1701,7 +1701,7 @@
 			)
 		)
 		(property "Product Name" "SQP 20 Вт"
-			(at 142.24 71.12 0)
+			(at 200.66 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1710,7 +1710,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 142.24 71.12 0)
+			(at 200.66 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1718,7 +1718,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 142.24 71.12 0)
+			(at 200.66 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1742,7 +1742,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 115.57 87.63 0)
+		(at 173.99 142.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1751,7 +1751,7 @@
 		(fields_autoplaced yes)
 		(uuid "667a7bff-77c3-448e-b8bf-913aa99698ec")
 		(property "Reference" "R12"
-			(at 118.11 86.3599 0)
+			(at 176.53 140.9699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1760,7 +1760,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 118.11 88.8999 0)
+			(at 176.53 143.5099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1769,7 +1769,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_Power_L60.0mm_W14.0mm_P66.04mm"
-			(at 113.792 87.63 90)
+			(at 172.212 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1778,7 +1778,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 115.57 87.63 0)
+			(at 173.99 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1787,7 +1787,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 115.57 87.63 0)
+			(at 173.99 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1796,7 +1796,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 115.57 87.63 0)
+			(at 173.99 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1805,7 +1805,7 @@
 			)
 		)
 		(property "Product Name" "SQP 20 Вт"
-			(at 115.57 87.63 0)
+			(at 173.99 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1814,7 +1814,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 115.57 87.63 0)
+			(at 173.99 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1822,7 +1822,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 115.57 87.63 0)
+			(at 173.99 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1846,7 +1846,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 124.46 71.12 0)
+		(at 182.88 125.73 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1855,7 +1855,7 @@
 		(fields_autoplaced yes)
 		(uuid "714b9427-d43a-46ca-ab2c-eb0e95154613")
 		(property "Reference" "R5"
-			(at 127 69.8499 0)
+			(at 185.42 124.4599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1864,7 +1864,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 127 72.3899 0)
+			(at 185.42 126.9999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1873,7 +1873,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_Power_L60.0mm_W14.0mm_P66.04mm"
-			(at 122.682 71.12 90)
+			(at 181.102 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1882,7 +1882,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 124.46 71.12 0)
+			(at 182.88 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1891,7 +1891,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 124.46 71.12 0)
+			(at 182.88 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1900,7 +1900,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 124.46 71.12 0)
+			(at 182.88 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1909,7 +1909,7 @@
 			)
 		)
 		(property "Product Name" "SQP 20 Вт"
-			(at 124.46 71.12 0)
+			(at 182.88 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1918,7 +1918,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 124.46 71.12 0)
+			(at 182.88 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1926,7 +1926,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 124.46 71.12 0)
+			(at 182.88 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1950,7 +1950,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 97.79 71.12 0)
+		(at 156.21 125.73 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -1959,7 +1959,7 @@
 		(fields_autoplaced yes)
 		(uuid "720b96dc-388a-42a6-a5ed-10079dd61bf9")
 		(property "Reference" "R2"
-			(at 100.33 69.8499 0)
+			(at 158.75 124.4599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1968,7 +1968,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 100.33 72.3899 0)
+			(at 158.75 126.9999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1977,7 +1977,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_Power_L60.0mm_W14.0mm_P66.04mm"
-			(at 96.012 71.12 90)
+			(at 154.432 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1986,7 +1986,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 97.79 71.12 0)
+			(at 156.21 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1995,7 +1995,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 97.79 71.12 0)
+			(at 156.21 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2004,7 +2004,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 97.79 71.12 0)
+			(at 156.21 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2013,7 +2013,7 @@
 			)
 		)
 		(property "Product Name" "SQP 20 Вт"
-			(at 97.79 71.12 0)
+			(at 156.21 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2022,7 +2022,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 97.79 71.12 0)
+			(at 156.21 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2030,7 +2030,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 97.79 71.12 0)
+			(at 156.21 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2054,7 +2054,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 215.9 76.2 0)
+		(at 274.32 130.81 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -2063,7 +2063,7 @@
 		(fields_autoplaced yes)
 		(uuid "7d97e542-20b1-4d36-a90c-74f1bc3b39b4")
 		(property "Reference" "H2"
-			(at 218.44 73.66 0)
+			(at 276.86 128.27 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2072,7 +2072,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 218.44 76.2 0)
+			(at 276.86 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2081,7 +2081,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4"
-			(at 215.9 76.2 0)
+			(at 274.32 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2090,7 +2090,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 215.9 76.2 0)
+			(at 274.32 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2099,7 +2099,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 215.9 76.2 0)
+			(at 274.32 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2108,7 +2108,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 215.9 76.2 0)
+			(at 274.32 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2116,7 +2116,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 215.9 76.2 0)
+			(at 274.32 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2124,7 +2124,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 215.9 76.2 0)
+			(at 274.32 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2132,7 +2132,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 215.9 76.2 0)
+			(at 274.32 130.81 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2153,7 +2153,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 215.9 92.71 0)
+		(at 274.32 147.32 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -2162,7 +2162,7 @@
 		(fields_autoplaced yes)
 		(uuid "805d0ef8-6bbc-49a0-b160-e62d090257c7")
 		(property "Reference" "H4"
-			(at 218.44 90.17 0)
+			(at 276.86 144.78 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2171,7 +2171,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 218.44 92.71 0)
+			(at 276.86 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2180,7 +2180,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4"
-			(at 215.9 92.71 0)
+			(at 274.32 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2189,7 +2189,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 215.9 92.71 0)
+			(at 274.32 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2198,7 +2198,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 215.9 92.71 0)
+			(at 274.32 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2207,7 +2207,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 215.9 92.71 0)
+			(at 274.32 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2215,7 +2215,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 215.9 92.71 0)
+			(at 274.32 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2223,7 +2223,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 215.9 92.71 0)
+			(at 274.32 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2231,7 +2231,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 215.9 92.71 0)
+			(at 274.32 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2252,7 +2252,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 88.9 71.12 0)
+		(at 147.32 125.73 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2261,7 +2261,7 @@
 		(fields_autoplaced yes)
 		(uuid "81c1d9f3-a5f0-417e-85d8-8d42adbe968f")
 		(property "Reference" "R1"
-			(at 91.44 69.8499 0)
+			(at 149.86 124.4599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2270,7 +2270,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 91.44 72.3899 0)
+			(at 149.86 126.9999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2279,7 +2279,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_Power_L60.0mm_W14.0mm_P66.04mm"
-			(at 87.122 71.12 90)
+			(at 145.542 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2288,7 +2288,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 88.9 71.12 0)
+			(at 147.32 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2297,7 +2297,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 88.9 71.12 0)
+			(at 147.32 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2306,7 +2306,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 88.9 71.12 0)
+			(at 147.32 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2315,7 +2315,7 @@
 			)
 		)
 		(property "Product Name" "SQP 20 Вт"
-			(at 88.9 71.12 0)
+			(at 147.32 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2324,7 +2324,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 88.9 71.12 0)
+			(at 147.32 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2332,7 +2332,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 88.9 71.12 0)
+			(at 147.32 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2356,7 +2356,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 151.13 87.63 0)
+		(at 209.55 142.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2365,7 +2365,7 @@
 		(fields_autoplaced yes)
 		(uuid "84a87569-727d-47e8-95dd-997b9d9e5684")
 		(property "Reference" "R16"
-			(at 153.67 86.3599 0)
+			(at 212.09 140.9699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2374,7 +2374,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 153.67 88.8999 0)
+			(at 212.09 143.5099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2383,7 +2383,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_Power_L60.0mm_W14.0mm_P66.04mm"
-			(at 149.352 87.63 90)
+			(at 207.772 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2392,7 +2392,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 151.13 87.63 0)
+			(at 209.55 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2401,7 +2401,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 151.13 87.63 0)
+			(at 209.55 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2410,7 +2410,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 151.13 87.63 0)
+			(at 209.55 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2419,7 +2419,7 @@
 			)
 		)
 		(property "Product Name" "SQP 20 Вт"
-			(at 151.13 87.63 0)
+			(at 209.55 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2428,7 +2428,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 151.13 87.63 0)
+			(at 209.55 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2436,7 +2436,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 151.13 87.63 0)
+			(at 209.55 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2460,7 +2460,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 186.69 78.74 0)
+		(at 245.11 133.35 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2468,7 +2468,7 @@
 		(dnp no)
 		(uuid "9cfb7bd0-637e-486c-ae34-77972c83dfe5")
 		(property "Reference" "J2"
-			(at 189.23 78.7399 0)
+			(at 247.65 133.3499 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2477,7 +2477,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 189.23 81.2799 0)
+			(at 247.65 135.8899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2487,7 +2487,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Molex:Molex_Mini-Fit_Jr_5566-02A_2x01_P4.20mm_Vertical"
-			(at 186.69 78.74 0)
+			(at 245.11 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2496,7 +2496,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 186.69 78.74 0)
+			(at 245.11 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2505,7 +2505,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 186.69 78.74 0)
+			(at 245.11 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2514,7 +2514,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 186.69 78.74 0)
+			(at 245.11 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2523,7 +2523,7 @@
 			)
 		)
 		(property "Product Name" "DS1073-01-2x1-MVT6"
-			(at 186.69 78.74 0)
+			(at 245.11 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2532,7 +2532,7 @@
 			)
 		)
 		(property "Purpose" "VDC_OUT1"
-			(at 191.262 81.534 0)
+			(at 249.682 136.144 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2540,7 +2540,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 186.69 78.74 0)
+			(at 245.11 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2564,7 +2564,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 133.35 87.63 0)
+		(at 191.77 142.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2573,7 +2573,7 @@
 		(fields_autoplaced yes)
 		(uuid "9f1af3f2-7d54-4c15-9131-73cdc39a5da5")
 		(property "Reference" "R14"
-			(at 135.89 86.3599 0)
+			(at 194.31 140.9699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2582,7 +2582,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 135.89 88.8999 0)
+			(at 194.31 143.5099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2591,7 +2591,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_Power_L60.0mm_W14.0mm_P66.04mm"
-			(at 131.572 87.63 90)
+			(at 189.992 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2600,7 +2600,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 133.35 87.63 0)
+			(at 191.77 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2609,7 +2609,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 133.35 87.63 0)
+			(at 191.77 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2618,7 +2618,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 133.35 87.63 0)
+			(at 191.77 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2627,7 +2627,7 @@
 			)
 		)
 		(property "Product Name" "SQP 20 Вт"
-			(at 133.35 87.63 0)
+			(at 191.77 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2636,7 +2636,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 133.35 87.63 0)
+			(at 191.77 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2644,7 +2644,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 133.35 87.63 0)
+			(at 191.77 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2668,7 +2668,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 115.57 71.12 0)
+		(at 173.99 125.73 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2677,7 +2677,7 @@
 		(fields_autoplaced yes)
 		(uuid "b0ab70e7-1f37-42c9-928a-47e4049c9c34")
 		(property "Reference" "R4"
-			(at 118.11 69.8499 0)
+			(at 176.53 124.4599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2686,7 +2686,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 118.11 72.3899 0)
+			(at 176.53 126.9999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2695,7 +2695,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_Power_L60.0mm_W14.0mm_P66.04mm"
-			(at 113.792 71.12 90)
+			(at 172.212 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2704,7 +2704,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 115.57 71.12 0)
+			(at 173.99 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2713,7 +2713,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 115.57 71.12 0)
+			(at 173.99 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2722,7 +2722,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 115.57 71.12 0)
+			(at 173.99 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2731,7 +2731,7 @@
 			)
 		)
 		(property "Product Name" "SQP 20 Вт"
-			(at 115.57 71.12 0)
+			(at 173.99 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2740,7 +2740,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 115.57 71.12 0)
+			(at 173.99 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2748,7 +2748,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 115.57 71.12 0)
+			(at 173.99 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2772,7 +2772,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 186.69 87.63 0)
+		(at 245.11 142.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2780,7 +2780,7 @@
 		(dnp no)
 		(uuid "ca021394-5b6a-45da-81e4-c1574338ddf5")
 		(property "Reference" "J3"
-			(at 189.23 87.6299 0)
+			(at 247.65 142.2399 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2789,7 +2789,7 @@
 			)
 		)
 		(property "Value" "~"
-			(at 189.23 90.1699 0)
+			(at 247.65 144.7799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2798,7 +2798,7 @@
 			)
 		)
 		(property "Footprint" "Connector_Molex:Molex_Mini-Fit_Jr_5566-02A_2x01_P4.20mm_Vertical"
-			(at 186.69 87.63 0)
+			(at 245.11 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2807,7 +2807,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 186.69 87.63 0)
+			(at 245.11 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2816,7 +2816,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 186.69 87.63 0)
+			(at 245.11 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2825,7 +2825,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 186.69 87.63 0)
+			(at 245.11 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2834,7 +2834,7 @@
 			)
 		)
 		(property "Product Name" "DS1073-01-2x1-MVT6"
-			(at 186.69 87.63 0)
+			(at 245.11 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2843,7 +2843,7 @@
 			)
 		)
 		(property "Purpose" "VDC_OUT2"
-			(at 191.262 90.424 0)
+			(at 249.682 145.034 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2851,7 +2851,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 186.69 87.63 0)
+			(at 245.11 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2875,7 +2875,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 151.13 71.12 0)
+		(at 209.55 125.73 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2884,7 +2884,7 @@
 		(fields_autoplaced yes)
 		(uuid "d6a96c93-1dee-4a05-89c7-fab0c8fb803b")
 		(property "Reference" "R8"
-			(at 153.67 69.8499 0)
+			(at 212.09 124.4599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2893,7 +2893,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 153.67 72.3899 0)
+			(at 212.09 126.9999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2902,7 +2902,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_Power_L60.0mm_W14.0mm_P66.04mm"
-			(at 149.352 71.12 90)
+			(at 207.772 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2911,7 +2911,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 151.13 71.12 0)
+			(at 209.55 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2920,7 +2920,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 151.13 71.12 0)
+			(at 209.55 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2929,7 +2929,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 151.13 71.12 0)
+			(at 209.55 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2938,7 +2938,7 @@
 			)
 		)
 		(property "Product Name" "SQP 20 Вт"
-			(at 151.13 71.12 0)
+			(at 209.55 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2947,7 +2947,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 151.13 71.12 0)
+			(at 209.55 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2955,7 +2955,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 151.13 71.12 0)
+			(at 209.55 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2979,7 +2979,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 142.24 87.63 0)
+		(at 200.66 142.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2988,7 +2988,7 @@
 		(fields_autoplaced yes)
 		(uuid "eb3fb5e2-1bd8-420a-980f-8eb2e27f8157")
 		(property "Reference" "R15"
-			(at 144.78 86.3599 0)
+			(at 203.2 140.9699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2997,7 +2997,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 144.78 88.8999 0)
+			(at 203.2 143.5099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3006,7 +3006,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_Power_L60.0mm_W14.0mm_P66.04mm"
-			(at 140.462 87.63 90)
+			(at 198.882 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3015,7 +3015,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 142.24 87.63 0)
+			(at 200.66 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3024,7 +3024,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 142.24 87.63 0)
+			(at 200.66 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3033,7 +3033,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 142.24 87.63 0)
+			(at 200.66 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3042,7 +3042,7 @@
 			)
 		)
 		(property "Product Name" "SQP 20 Вт"
-			(at 142.24 87.63 0)
+			(at 200.66 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3051,7 +3051,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 142.24 87.63 0)
+			(at 200.66 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3059,7 +3059,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 142.24 87.63 0)
+			(at 200.66 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3083,7 +3083,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 133.35 71.12 0)
+		(at 191.77 125.73 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3092,7 +3092,7 @@
 		(fields_autoplaced yes)
 		(uuid "ee4b7f40-58b0-45f3-ab51-33f2090cd8ad")
 		(property "Reference" "R6"
-			(at 135.89 69.8499 0)
+			(at 194.31 124.4599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3101,7 +3101,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 135.89 72.3899 0)
+			(at 194.31 126.9999 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3110,7 +3110,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_Power_L60.0mm_W14.0mm_P66.04mm"
-			(at 131.572 71.12 90)
+			(at 189.992 125.73 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3119,7 +3119,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 133.35 71.12 0)
+			(at 191.77 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3128,7 +3128,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 133.35 71.12 0)
+			(at 191.77 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3137,7 +3137,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 133.35 71.12 0)
+			(at 191.77 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3146,7 +3146,7 @@
 			)
 		)
 		(property "Product Name" "SQP 20 Вт"
-			(at 133.35 71.12 0)
+			(at 191.77 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3155,7 +3155,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 133.35 71.12 0)
+			(at 191.77 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3163,7 +3163,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 133.35 71.12 0)
+			(at 191.77 125.73 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3187,7 +3187,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:MountingHole_Pad")
-		(at 215.9 85.09 0)
+		(at 274.32 139.7 0)
 		(unit 1)
 		(exclude_from_sim yes)
 		(in_bom no)
@@ -3196,7 +3196,7 @@
 		(fields_autoplaced yes)
 		(uuid "f72a5f8e-a99a-481b-82e8-9b1b0c67f1a9")
 		(property "Reference" "H3"
-			(at 218.44 82.55 0)
+			(at 276.86 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3205,7 +3205,7 @@
 			)
 		)
 		(property "Value" "MountingHole_Pad"
-			(at 218.44 85.09 0)
+			(at 276.86 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3214,7 +3214,7 @@
 			)
 		)
 		(property "Footprint" "MountingHole:MountingHole_4.3mm_M4"
-			(at 215.9 85.09 0)
+			(at 274.32 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3223,7 +3223,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 215.9 85.09 0)
+			(at 274.32 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3232,7 +3232,7 @@
 			)
 		)
 		(property "Description" "Mounting Hole with connection"
-			(at 215.9 85.09 0)
+			(at 274.32 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3241,7 +3241,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 215.9 85.09 0)
+			(at 274.32 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3249,7 +3249,7 @@
 			)
 		)
 		(property "Product Name" ""
-			(at 215.9 85.09 0)
+			(at 274.32 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3257,7 +3257,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 215.9 85.09 0)
+			(at 274.32 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3265,7 +3265,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 215.9 85.09 0)
+			(at 274.32 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3286,7 +3286,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 88.9 87.63 0)
+		(at 147.32 142.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3295,7 +3295,7 @@
 		(fields_autoplaced yes)
 		(uuid "fc065b8b-71dc-48f7-a4f2-83ff7784912d")
 		(property "Reference" "R9"
-			(at 91.44 86.3599 0)
+			(at 149.86 140.9699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3304,7 +3304,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 91.44 88.8999 0)
+			(at 149.86 143.5099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3313,7 +3313,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_Power_L60.0mm_W14.0mm_P66.04mm"
-			(at 87.122 87.63 90)
+			(at 145.542 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3322,7 +3322,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 88.9 87.63 0)
+			(at 147.32 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3331,7 +3331,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 88.9 87.63 0)
+			(at 147.32 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3340,7 +3340,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 88.9 87.63 0)
+			(at 147.32 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3349,7 +3349,7 @@
 			)
 		)
 		(property "Product Name" "SQP 20 Вт"
-			(at 88.9 87.63 0)
+			(at 147.32 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3358,7 +3358,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 88.9 87.63 0)
+			(at 147.32 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3366,7 +3366,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 88.9 87.63 0)
+			(at 147.32 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3390,7 +3390,7 @@
 	)
 	(symbol
 		(lib_id "Device:R")
-		(at 97.79 87.63 0)
+		(at 156.21 142.24 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3399,7 +3399,7 @@
 		(fields_autoplaced yes)
 		(uuid "fded19e1-a1c0-40a6-8cfe-0aa7ab88e21f")
 		(property "Reference" "R10"
-			(at 100.33 86.3599 0)
+			(at 158.75 140.9699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3408,7 +3408,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 100.33 88.8999 0)
+			(at 158.75 143.5099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3417,7 +3417,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_Power_L60.0mm_W14.0mm_P66.04mm"
-			(at 96.012 87.63 90)
+			(at 154.432 142.24 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3426,7 +3426,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 97.79 87.63 0)
+			(at 156.21 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3435,7 +3435,7 @@
 			)
 		)
 		(property "Description" "Resistor"
-			(at 97.79 87.63 0)
+			(at 156.21 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3444,7 +3444,7 @@
 			)
 		)
 		(property "Description P/N" ""
-			(at 97.79 87.63 0)
+			(at 156.21 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3453,7 +3453,7 @@
 			)
 		)
 		(property "Product Name" "SQP 20 Вт"
-			(at 97.79 87.63 0)
+			(at 156.21 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3462,7 +3462,7 @@
 			)
 		)
 		(property "Purpose" ""
-			(at 97.79 87.63 0)
+			(at 156.21 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3470,7 +3470,7 @@
 			)
 		)
 		(property "Replacement" ""
-			(at 97.79 87.63 0)
+			(at 156.21 142.24 0)
 			(effects
 				(font
 					(size 1.27 1.27)
