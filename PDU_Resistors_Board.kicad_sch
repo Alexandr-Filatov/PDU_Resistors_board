@@ -388,6 +388,16 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "НВЦТ.0001.0400.300"
+		(exclude_from_sim no)
+		(at 16.51 36.068 90)
+		(effects
+			(font
+				(size 2.5 2.5)
+			)
+		)
+		(uuid "87a7decf-88e2-432b-a85c-f128d7d1f3bc")
+	)
 	(text "Схема электрическая принципиальная"
 		(exclude_from_sim no)
 		(at 329.946 271.78 0)
